@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopSpinningMyWords", "StopSpinningMyWords\StopSpinningMyWords.csproj", "{8C13BE8F-5FE7-4990-8B31-ACAF8C2BFC25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{EFD1C91E-2162-49D8-A9B4-EBDC13CA14CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C13BE8F-5FE7-4990-8B31-ACAF8C2BFC25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C13BE8F-5FE7-4990-8B31-ACAF8C2BFC25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C13BE8F-5FE7-4990-8B31-ACAF8C2BFC25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C13BE8F-5FE7-4990-8B31-ACAF8C2BFC25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFD1C91E-2162-49D8-A9B4-EBDC13CA14CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD1C91E-2162-49D8-A9B4-EBDC13CA14CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD1C91E-2162-49D8-A9B4-EBDC13CA14CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD1C91E-2162-49D8-A9B4-EBDC13CA14CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
